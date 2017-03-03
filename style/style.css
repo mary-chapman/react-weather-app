@@ -1,0 +1,23 @@
+body {
+  background-color: #8393a8 !important;
+  color: #2b4a70 !important;
+}
+
+.container {
+  margin: 15px;
+}
+
+.city {
+  background-color: #fff;
+  margin: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.btn {
+  background-color: #c6cbd1 !important;
+  border-color: #c6cbd1 !important;
+  color: black !important;
+}
