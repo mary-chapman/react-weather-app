@@ -1,6 +1,9 @@
-# ReduxSimpleStarter
+# react-weather-app
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A basic weather app that uses the openweathermap.org api and was built with the help of React.js and Redux along with Stephen Grider's React-Redux boilerplate.  
+
+<img src="screenshot.png" />
+
 
 ###Getting Started###
 
